@@ -1,0 +1,9 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "hint-no-inline-styles": "error",
+    "no-inline-styles": "off"
+  }
+}
